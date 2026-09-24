@@ -39,6 +39,8 @@ Generate Learning Path
      v
 Visualize Skill Graph
 ```
+<img width="954" height="503" alt="image" src="https://github.com/user-attachments/assets/9ed46559-e6d9-4978-a770-d7d6ca2a6297" />
+
 
 ## Example
 
