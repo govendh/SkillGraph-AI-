@@ -1,0 +1,54 @@
+{
+  "Backend Developer": [
+    "Java",
+    "OOP",
+    "DSA",
+    "SQL",
+    "PostgreSQL",
+    "Spring Boot",
+    "REST API",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "DSA"
+  ],
+
+  "Data Scientist": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "SQL",
+    "Statistics",
+    "Machine Learning",
+    "Scikit-learn"
+  ],
+
+  "ML Engineer": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning",
+    "Scikit-learn",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+
+  "Cloud Engineer": [
+    "Linux",
+    "Python",
+    "Git",
+    "Docker",
+    "AWS",
+    "SQL"
+  ]
+}

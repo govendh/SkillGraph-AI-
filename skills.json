@@ -1,0 +1,87 @@
+{
+  "Python": {
+    "category": "Programming",
+    "prerequisites": []
+  },
+"Linux": {
+  "category": "Tools",
+  "prerequisites": []
+},
+
+  "Java": {
+    "category": "Programming",
+    "prerequisites": []
+  },
+  "OOP": {
+    "category": "Programming",
+    "prerequisites": ["Java"]
+  },
+  "DSA": {
+    "category": "Core",
+    "prerequisites": []
+  },
+  "SQL": {
+    "category": "Database",
+    "prerequisites": []
+  },
+  "PostgreSQL": {
+    "category": "Database",
+    "prerequisites": ["SQL"]
+  },
+  "HTML": {
+    "category": "Frontend",
+    "prerequisites": []
+  },
+  "CSS": {
+    "category": "Frontend",
+    "prerequisites": ["HTML"]
+  },
+  "JavaScript": {
+    "category": "Frontend",
+    "prerequisites": ["HTML", "CSS"]
+  },
+  "React": {
+    "category": "Frontend",
+    "prerequisites": ["JavaScript"]
+  },
+  "Spring Boot": {
+    "category": "Backend",
+    "prerequisites": ["Java", "OOP"]
+  },
+  "REST API": {
+    "category": "Backend",
+    "prerequisites": ["Spring Boot"]
+  },
+  "Git": {
+    "category": "Tools",
+    "prerequisites": []
+  },
+  "Docker": {
+    "category": "DevOps",
+    "prerequisites": ["REST API"]
+  },
+  "AWS": {
+    "category": "Cloud",
+    "prerequisites": ["Docker"]
+  },
+  "NumPy": {
+    "category": "Data Science",
+    "prerequisites": ["Python"]
+  },
+  "Pandas": {
+    "category": "Data Science",
+    "prerequisites": ["Python", "NumPy"]
+  },
+  "Statistics": {
+    "category": "Data Science",
+    "prerequisites": ["Python"]
+  },
+  "Machine Learning": {
+    "category": "AI/ML",
+    "prerequisites": ["Python", "NumPy", "Pandas", "Statistics"]
+  },
+  "Scikit-learn": {
+    "category": "AI/ML",
+    "prerequisites": ["Machine Learning"]
+  }
+}
